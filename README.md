@@ -1,5 +1,5 @@
 # bubble-burst-game
-this game is a minimalistic look-alike or wannabe Classic Bubble Burst game using only JS canvas animations. You can [play it online](https://sureshbabudj.github.io/space-invaders-game/).
+this game is a minimalistic look-alike or wannabe Classic Bubble Burst game using only JS canvas animations. You can [play it online](https://sureshbabudj.github.io/bubble-burst-game/).
 
 ## Developer
 
