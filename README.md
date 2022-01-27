@@ -1,10 +1,10 @@
-# bubble-burst-game
+# Bubble Burst Game
 this game is a minimalistic look-alike or wannabe Classic Bubble Burst game using only JS canvas animations. You can [play it online](https://sureshbabudj.github.io/bubble-burst-game/).
 
 ## Developer
 
 ### Prerequisites
-My Mario Game is a JavaScript game so familiarity with JavaScript is required. It is also recommended that you have git and npm installed.
+Bubble Burst Game is a JavaScript game so familiarity with JavaScript is required. It is also recommended that you have git and npm installed.
 
 ### Getting started
 
